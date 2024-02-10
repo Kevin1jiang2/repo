@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.ryannair05.cylinder
+Name: Cylinder Reborn
+Version: 1.1.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Description: Make your icons dance
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
+Filename: ./debs/com.ryannair05.cylinder.deb
+Depiction: https://kevin1jiang2.github.io/repo/Depiction/cylinder
+Size: 283000
+MD5sum: 769bdebf1d02dd1b640a22432c930fc8
+
